@@ -39,7 +39,7 @@
               "version":"0.22"
             }
          ]
-        }
+        },
       "tools": [
         {
           "name":"msp430-gcc",
