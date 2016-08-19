@@ -2,6 +2,10 @@
     "packages": [
 	{
 	    "maintainer": "Patrick Allison",
+	    "help": {
+	    	"online": "https://forums.adafruit.com"
+	    },
+	    "websiteURL":"https://forums.adafruit.com",
 	    "platforms": [
 		{
 		    "category": "ARA DAQ HW",
