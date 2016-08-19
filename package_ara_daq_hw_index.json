@@ -15,6 +15,7 @@
           "version": "1.0.0",
           "category": "Energia",
 	  "url":"http://github.com/ara-daq-hw/ara-daq-hw-index/raw/master/ara-daq-hw-packages-1.0.tar.bz2",
+	  "archiveFileName":"ara-daq-hw-packages-1.0.tar.bz2",
 	  "checksum":"MD5:480e9b57bd41239565fc530d9cf20a8d",
           "size": "9200",
           "boards": [
