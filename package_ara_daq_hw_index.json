@@ -19,7 +19,7 @@
           "size": "9200",
           "boards": [
               {"name": "ASPS-POWER"},
-              {"name": "ASPS-DAQ Heater"},
+              {"name": "ASPS-DAQ Heater"}
           ],
           "toolsDependencies": [
             {
