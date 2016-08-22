@@ -16,7 +16,7 @@
           "category": "Energia",
 	  "url":"http://github.com/ara-daq-hw/ara-daq-hw-index/raw/master/ara-daq-hw-packages-1.0.0.tar.bz2",
 	  "archiveFileName":"ara-daq-hw-packages-1.0.0.tar.bz2",
-	  "checksum":"MD5:a60d05477d348a3e9a173655acb120c4",
+	  "checksum":"MD5:9123e4f67681a992a9428fe96ec68aeb",
           "size": "9200",
           "boards": [
               {"name": "ASPS-POWER"},
