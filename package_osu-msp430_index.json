@@ -12,12 +12,12 @@
         {
           "name": "OSU MSP430 boards",
           "architecture": "osu-msp430",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "OSU",
           "url": "https://github.com/ara-daq-hw/ara-daq-hw-index/raw/master/osu-msp430-1.0.0.tar.bz2",	    
           "archiveFileName": "osu-msp430-1.0.0.tar.bz2",	    
-          "checksum": "SHA-256:2df67cc01bfa7906bd54c078cfcec44cffd0bd1f50f9293f78fafa7754d1d08c",
-          "size": "51577",
+          "checksum": "SHA-256:5d67ba2c7e1086db8b4837fd66cd995eab195a369eeff4571da2e8c6f4c6ef4f",
+          "size": "51668",
           "boards": [
             {"name": "ASPS-DAQ-HEATER"}
           ],
