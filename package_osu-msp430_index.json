@@ -1,0 +1,47 @@
+{
+  "packages": [
+    {
+      "name": "osu-msp430",
+      "maintainer": "Patrick Allison",
+      "websiteURL": "http://www.energia.nu/",
+      "email": "allison.122@osu.edu",
+      "help": {
+        "online": "http://energia.nu/reference"
+      },
+      "platforms": [
+        {
+          "name": "OSU MSP430 boards",
+          "architecture": "osu-msp430",
+          "version": "1.0.0",
+          "category": "OSU",
+          "url": "http://raw.githubusercontent.com/barawn/osu-msp430/master/osu-msp430-1.0.0.tar.bz2",
+
+          "archiveFileName": "osu-msp430-1.0.0.tar.bz2",	    
+          "checksum": "SHA-256:2df67cc01bfa7906bd54c078cfcec44cffd0bd1f50f9293f78fafa7754d1d08c",
+          "size": "51577",
+          "boards": [
+            {"name": "ASPS-DAQ-HEATER"}
+          ],
+          "toolsDependencies": [
+            {
+
+              "packager":"energia",
+              "name":"msp430-gcc",
+              "version":"4.6.3"
+            },
+            {
+              "packager":"energia",
+              "name":"dslite",
+              "version":"6.2.1.1594"
+            },
+            {
+              "packager":"energia",
+              "name":"mspdebug",
+              "version":"0.22"
+            }
+         ]
+        }
+      ]
+    }
+  ]
+}
