@@ -14,8 +14,7 @@
           "architecture": "osu-msp430",
           "version": "1.0.0",
           "category": "OSU",
-          "url": "http://raw.githubusercontent.com/barawn/osu-msp430/master/osu-msp430-1.0.0.tar.bz2",
-
+          "url": "https://github.com/ara-daq-hw/ara-daq-hw-index/raw/master/osu-msp430-1.0.0.tar.bz2",	    
           "archiveFileName": "osu-msp430-1.0.0.tar.bz2",	    
           "checksum": "SHA-256:2df67cc01bfa7906bd54c078cfcec44cffd0bd1f50f9293f78fafa7754d1d08c",
           "size": "51577",
